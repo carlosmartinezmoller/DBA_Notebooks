@@ -2,14 +2,14 @@
 ## Objective
 Somehow Database Administrators we have been Data Scientists for a long time. Analyzing all the information available in the Database Dictionary to diagnose a job is something that may take days of data manipulation and inspection.
 
-Some tools have been built by some providers to display the dictionary information, but we always find ourselves using our specialized scripts to end up diagnosing some uncommon issues, strange lockings, etc
+Some tools have been built (OEM, Toad, etc) to display the dictionary information, but we always find ourselves using our specialized scripts that we store as treasure in SQL files to end up diagnosing some uncommon issues, strange lockings, etc
 
 As Data Scientists, we have to look what other Data Scientists are doing. And one basic tool I have noticed they use are Notebooks.
 
-Notebooks can be very useful for DBAs too:
+Notebooks can be very useful for DBAs too. They help to:
 * Put together all of our scripts to analyze one specific issue
 * Have an easy tool to quickly visualize the data we are gathering
-* Give a tool so that the DBAs that work with us add their own scripts to our useful scripts in one issue
+* Give a tool so that the DBAs on a team can share and improve together the scripts
 
 ## Contents
 The starting poing are notebooks that:
